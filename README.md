@@ -75,8 +75,6 @@ Object_Detection_Files/
 ## 🖼️ Demo / Exhibition
 
 ![Project Banner](images/banner.jpg)
-![Prototype](images/prototype.jpg)
-![Detection Output](images/demo.png)
 
 ---
 
